@@ -13,7 +13,7 @@ assetsSummary:
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Andrei G. Pakhomov (2023)
   Effect of the electric field vector change on the electroporation efficiency of
   paired-pulse trains compared to single-pulse trains (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000631/draft
+  DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -51,9 +51,10 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-09-14T18:38:55.144430+00:00'
-description: Pulses or pulse pairs were applied to a BPAE cell monolayer at either
-  1 Hz or 833 kHz. Abscissa is the angle at which the electric field vector direction
-  changed between two pulses in a pair.
+datePublished: '2023-09-15T18:57:11.646423+00:00'
+description: Trains of 5 Pulses (600 ns) or 5 pulse pairs (600+600 ns) were applied
+  to a BPAE cell monolayer at either 1 Hz or 833 kHz. Supported by NIH 1R21EY034258
+doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000631/draft
 identifier: DANDI:000631
@@ -65,6 +66,18 @@ manifestLocation:
 name: Effect of the electric field vector change on the electroporation efficiency
   of paired-pulse trains compared to single-pulse trains
 protocol: []
+publishedBy:
+  endDate: '2023-09-15T18:57:11.646423+00:00'
+  id: urn:uuid:a6a8a11c-3fa1-45b7-a27e-79784a1f9b7b
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-09-15T18:57:11.646423+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:ce01e966-991a-4e20-b71f-7bde65a87bc8
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Control of the Electroporation Efficiency of Nanosecond Pulses by Swinging
     the Electric Field Vector Direction
