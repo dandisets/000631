@@ -7,13 +7,25 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 18379955860
+  numberOfFiles: 15
+  numberOfSubjects: 15
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
+    name: Bos taurus - Cattle
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Andrei G. Pakhomov (2023)
   Effect of the electric field vector change on the electroporation efficiency of
   paired-pulse trains compared to single-pulse trains (Version draft) [Data set].
-  DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  DANDI archive. https://dandiarchive.org/dandiset/000631/draft
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -51,10 +63,20 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-09-14T18:38:55.144430+00:00'
-datePublished: '2023-09-15T18:57:11.646423+00:00'
-description: Trains of 5 Pulses (600 ns) or 5 pulse pairs (600+600 ns) were applied
-  to a BPAE cell monolayer at either 1 Hz or 833 kHz. Supported by NIH 1R21EY034258
-doi: 10.80507/dandi.123456/0.123456.1234
+description: In the study, the impact of varying the electric field vector on the
+  effectiveness of electroporation was examined, utilizing both paired-pulse trains,
+  consisting of 5 pulses at 600 + 600 ns, and single-pulse trains with 5 pulses at
+  600 ns. These were applied to a BPAE cell monolayer at frequencies of either 1 Hz
+  or 833 kHz. The focus was on assessing the alterations in electroporation efficiency,
+  gauged through the changes in YoPro-1 emission when compared to the baseline established
+  by a single-pulse train in the identical region of interest, which was set at 100%.
+  The evaluation criteria included the angle at which the electric field vector direction
+  alternated between two pulses within a pair. Introduction of pulses in pairs amplified
+  the electroporation efficiency at smaller angles but resulted in an inhibition at
+  larger angles, indicating a frequency-dependent relationship. The images captured
+  during the experiments provided a comprehensive visualization of this effect, highlighting
+  the nuanced impact of electric field vector modifications on electroporation efficiency.
+  Supported by NIH 1R21EY034258
 ethicsApproval: []
 id: DANDI:000631/draft
 identifier: DANDI:000631
@@ -66,24 +88,12 @@ manifestLocation:
 name: Effect of the electric field vector change on the electroporation efficiency
   of paired-pulse trains compared to single-pulse trains
 protocol: []
-publishedBy:
-  endDate: '2023-09-15T18:57:11.646423+00:00'
-  id: urn:uuid:a6a8a11c-3fa1-45b7-a27e-79784a1f9b7b
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-09-15T18:57:11.646423+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:ce01e966-991a-4e20-b71f-7bde65a87bc8
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource:
 - name: Control of the Electroporation Efficiency of Nanosecond Pulses by Swinging
     the Electric Field Vector Direction
   relation: dcite:IsPublishedIn
   schemaKey: Resource
-  url: https:// doi.org/10.3390/ijms241310921
+  url: https://doi.org/10.3390/ijms241310921
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
