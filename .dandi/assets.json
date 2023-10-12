@@ -32,6 +32,8 @@
 ],
 "dateModified":
 "2023-10-11T15:25:17.089179-04:00",
+"datePublished":
+"2023-10-12T15:08:59.030032+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -49,6 +51,34 @@
 [],
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-13/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-13_ses-BPAE-5xBipolar-0,83MHz_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.030032+00:00",
+"id":
+"urn:uuid:3090586c-56e0-4872-9b82-2c51567f4562",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.030032+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:8e1d8d9b-314a-4837-a90c-1a629d907140",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -142,7 +172,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:26:44.117840+00:00",
+"2023-10-12T15:08:59.032409+00:00",
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-13/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-13_ses-BPAE-5xBipolar-0,83MHz_image.nwb",
 "size":
@@ -181,6 +211,8 @@
 ],
 "dateModified":
 "2023-10-11T15:25:17.342099-04:00",
+"datePublished":
+"2023-10-12T15:08:59.038359+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -198,6 +230,34 @@
 [],
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-15/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-15_ses-600ns-4kV-0-8MHz paired pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.038359+00:00",
+"id":
+"urn:uuid:cef44fb6-b05e-4f29-a7d2-0983cb3d1e71",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.038359+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:d2285c7e-270f-440b-a0d9-f03cb4d87c1e",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -291,7 +351,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:26:47.335809+00:00",
+"2023-10-12T15:08:59.040583+00:00",
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-15/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-15_ses-600ns-4kV-0-8MHz paired pulse trains_image.nwb",
 "size":
@@ -330,6 +390,8 @@
 ],
 "dateModified":
 "2023-10-11T15:25:16.868962-04:00",
+"datePublished":
+"2023-10-12T15:08:59.013797+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -347,6 +409,34 @@
 [],
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-20/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-20_ses-600ns-4kV-0-8MHz paired pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.013797+00:00",
+"id":
+"urn:uuid:602c0a51-69fc-47b3-9097-057d2a14b24a",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.013797+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:c5dd7496-c631-4f02-bcf1-278ad2ddcffe",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -440,7 +530,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:26:36.631824+00:00",
+"2023-10-12T15:08:59.016627+00:00",
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-20/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-20_ses-600ns-4kV-0-8MHz paired pulse trains_image.nwb",
 "size":
@@ -479,6 +569,8 @@
 ],
 "dateModified":
 "2023-10-11T15:25:21.688037-04:00",
+"datePublished":
+"2023-10-12T15:08:59.055610+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -496,6 +588,34 @@
 [],
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-05/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-05_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.055610+00:00",
+"id":
+"urn:uuid:c701e3f9-80bf-4b9c-b9f8-b54e4946cb1a",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.055610+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:5e484fa1-a45e-494d-80c0-334defebf8ce",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -589,7 +709,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:27:35.152411+00:00",
+"2023-10-12T15:08:59.057748+00:00",
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-05/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-05_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
 "size":
@@ -628,6 +748,8 @@
 ],
 "dateModified":
 "2023-10-11T15:25:21.042527-04:00",
+"datePublished":
+"2023-10-12T15:08:59.046415+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -645,6 +767,34 @@
 [],
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-06/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-06_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.046415+00:00",
+"id":
+"urn:uuid:d7a64dda-95f1-4030-b112-a2292f560874",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.046415+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:86126910-3574-486e-bf95-2cb9b6cd6ff1",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -738,7 +888,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:27:33.354796+00:00",
+"2023-10-12T15:08:59.048552+00:00",
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-06/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-06_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
 "size":
@@ -777,6 +927,8 @@
 ],
 "dateModified":
 "2023-10-11T15:26:45.875695-04:00",
+"datePublished":
+"2023-10-12T15:08:59.081813+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -794,6 +946,34 @@
 [],
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-10/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-10_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.081813+00:00",
+"id":
+"urn:uuid:6e03c970-7225-466c-8dba-8fc9f644df01",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.081813+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:5bcffbc9-2b95-49b9-8629-ace4bb7d6855",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -887,7 +1067,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:28:55.264077+00:00",
+"2023-10-12T15:08:59.084349+00:00",
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-10/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-10_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
 "size":
@@ -926,6 +1106,8 @@
 ],
 "dateModified":
 "2023-10-11T15:26:50.916779-04:00",
+"datePublished":
+"2023-10-12T15:08:59.063942+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -943,6 +1125,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-13/sub-600ns-5kV-1HzBP-8-9-21-BPAE-13_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.063942+00:00",
+"id":
+"urn:uuid:5730a470-b1d8-4066-bbfb-3e414dca3154",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.063942+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:cc5d0697-6dd9-4a1c-a5a7-061600f2c3e9",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1036,7 +1246,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:28:24.605410+00:00",
+"2023-10-12T15:08:59.066463+00:00",
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-13/sub-600ns-5kV-1HzBP-8-9-21-BPAE-13_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
 "size":
@@ -1075,6 +1285,8 @@
 ],
 "dateModified":
 "2023-10-11T15:26:54.409989-04:00",
+"datePublished":
+"2023-10-12T15:08:59.072700+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1092,6 +1304,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-15/sub-600ns-5kV-1HzBP-8-9-21-BPAE-15_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.072700+00:00",
+"id":
+"urn:uuid:4ea62eef-2424-4071-b0a9-90e2f6219bbd",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.072700+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:1193fecb-5fb4-4c5f-a2ab-2f1711dc83b3",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1185,7 +1425,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:28:28.984353+00:00",
+"2023-10-12T15:08:59.075215+00:00",
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-15/sub-600ns-5kV-1HzBP-8-9-21-BPAE-15_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
 "size":
@@ -1224,6 +1464,8 @@
 ],
 "dateModified":
 "2023-10-11T15:27:39.442465-04:00",
+"datePublished":
+"2023-10-12T15:08:59.099660+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1241,6 +1483,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-8/sub-600ns-5kV-1HzBP-8-9-21-BPAE-8_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.099660+00:00",
+"id":
+"urn:uuid:3b0eb8c6-0726-4ce2-b5bb-dc410746773a",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.099660+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:23cd08da-54e1-4511-a62f-affef1c0b580",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1334,7 +1604,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:29:04.004871+00:00",
+"2023-10-12T15:08:59.102125+00:00",
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-8/sub-600ns-5kV-1HzBP-8-9-21-BPAE-8_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
 "size":
@@ -1373,6 +1643,8 @@
 ],
 "dateModified":
 "2023-10-11T15:27:41.290747-04:00",
+"datePublished":
+"2023-10-12T15:08:59.090415+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1390,6 +1662,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-03/sub-600ns-5kV-1HzUP-7-31-21-BPAE-03_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.090415+00:00",
+"id":
+"urn:uuid:b27823e5-d120-494e-911b-aac97616c30c",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.090415+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:e95ce514-6c01-4061-9ed8-5d7d1e2887a8",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1483,7 +1783,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:29:03.476086+00:00",
+"2023-10-12T15:08:59.093043+00:00",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-03/sub-600ns-5kV-1HzUP-7-31-21-BPAE-03_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -1522,6 +1822,8 @@
 ],
 "dateModified":
 "2023-10-11T15:28:30.113620-04:00",
+"datePublished":
+"2023-10-12T15:08:59.108337+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1539,6 +1841,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-10/sub-600ns-5kV-1HzUP-7-31-21-BPAE-10_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.108337+00:00",
+"id":
+"urn:uuid:73de5d84-d170-4b02-9c35-17c33b568797",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.108337+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:7d534611-951d-4ab1-b25b-42a387e81775",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1632,7 +1962,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:29:34.937447+00:00",
+"2023-10-12T15:08:59.110962+00:00",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-10/sub-600ns-5kV-1HzUP-7-31-21-BPAE-10_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -1671,6 +2001,8 @@
 ],
 "dateModified":
 "2023-10-11T15:28:34.733396-04:00",
+"datePublished":
+"2023-10-12T15:08:59.117804+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1688,6 +2020,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-18/sub-600ns-5kV-1HzUP-7-31-21-BPAE-18_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.117804+00:00",
+"id":
+"urn:uuid:b8b3145f-e395-4e7e-8e44-a15842593958",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.117804+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:b682133a-6822-4794-9f5a-806709d48d39",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1781,7 +2141,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:29:52.362119+00:00",
+"2023-10-12T15:08:59.120308+00:00",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-18/sub-600ns-5kV-1HzUP-7-31-21-BPAE-18_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -1820,6 +2180,8 @@
 ],
 "dateModified":
 "2023-10-11T15:28:59.925412-04:00",
+"datePublished":
+"2023-10-12T15:08:59.126640+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1837,6 +2199,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-5/sub-600ns-5kV-1HzUP-7-31-21-BPAE-5_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.126640+00:00",
+"id":
+"urn:uuid:fe90dc39-5933-47c7-88ef-8a2e9a5b24e0",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.126640+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:716a0e53-248d-4544-a7e5-64899417b728",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -1930,7 +2320,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:30:12.613627+00:00",
+"2023-10-12T15:08:59.129068+00:00",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-5/sub-600ns-5kV-1HzUP-7-31-21-BPAE-5_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -1969,6 +2359,8 @@
 ],
 "dateModified":
 "2023-10-11T15:29:09.120575-04:00",
+"datePublished":
+"2023-10-12T15:08:59.144057+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -1986,6 +2378,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzUP-8-9-21-BPAE-10/sub-600ns-5kV-1HzUP-8-9-21-BPAE-10_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.144057+00:00",
+"id":
+"urn:uuid:80461c32-5586-4bd4-9197-54b1a8cef54a",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.144057+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:20708396-0f2a-40c3-bb5f-dd61554a001e",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -2079,7 +2499,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:30:18.002662+00:00",
+"2023-10-12T15:08:59.148467+00:00",
 "path":
 "sub-600ns-5kV-1HzUP-8-9-21-BPAE-10/sub-600ns-5kV-1HzUP-8-9-21-BPAE-10_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -2118,6 +2538,8 @@
 ],
 "dateModified":
 "2023-10-11T15:29:10.160133-04:00",
+"datePublished":
+"2023-10-12T15:08:59.135226+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -2135,6 +2557,34 @@
 [],
 "path":
 "sub-600ns-5kV-1HzUP-8-9-21-BPAE-14/sub-600ns-5kV-1HzUP-8-9-21-BPAE-14_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
+"publishedBy":
+{
+"endDate":
+"2023-10-12T15:08:59.135226+00:00",
+"id":
+"urn:uuid:11166dbf-2d38-4a92-98b7-0a45711a832d",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2023-10-12T15:08:59.135226+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:01f22e7c-377e-40d2-b792-642b21f729f0",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -2228,7 +2678,7 @@
 ]
 },
 "modified":
-"2023-10-11T19:30:16.913167+00:00",
+"2023-10-12T15:08:59.137755+00:00",
 "path":
 "sub-600ns-5kV-1HzUP-8-9-21-BPAE-14/sub-600ns-5kV-1HzUP-8-9-21-BPAE-14_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":

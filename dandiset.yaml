@@ -22,7 +22,7 @@ assetsSummary:
     name: Bos taurus - Cattle
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Andrei G. Pakhomov (2023)
+citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
   Effect of the electric field vector change on the electroporation efficiency of
   paired-pulse trains compared to single-pulse trains (Version draft) [Data set].
   DANDI archive. https://dandiarchive.org/dandiset/000631/draft
@@ -52,10 +52,18 @@ contributor:
 - affiliation: []
   identifier: 0000-0003-3816-3860
   includeInCitation: true
-  name: Andrei G. Pakhomov
+  name: Pakhomov, Andrei
   roleName: []
   schemaKey: Person
+- awardNumber: NIH 1R21EY034258
+  contactPoint: []
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2023-09-14T18:38:55.144430+00:00'
+datePublished: '2023-10-12T15:08:58.645902+00:00'
 description: In the study, the impact of varying the electric field vector on the
   effectiveness of electroporation was examined, utilizing both paired-pulse trains,
   consisting of 5 pulses at 600 + 600 ns, and single-pulse trains with 5 pulses at
@@ -81,6 +89,18 @@ manifestLocation:
 name: Effect of the electric field vector change on the electroporation efficiency
   of paired-pulse trains compared to single-pulse trains
 protocol: []
+publishedBy:
+  endDate: '2023-10-12T15:08:58.645902+00:00'
+  id: urn:uuid:7b568e6a-4d38-4a19-b01b-c72c0b455160
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-10-12T15:08:58.645902+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:9076b991-3729-4ad6-8b10-8c013d5554ef
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Control of the Electroporation Efficiency of Nanosecond Pulses by Swinging
     the Electric Field Vector Direction
