@@ -24,8 +24,8 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
   Effect of the electric field vector change on the electroporation efficiency of
-  paired-pulse trains compared to single-pulse trains (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000631/draft
+  paired-pulse trains compared to single-pulse trains (Version 0.231012.1508) [Data
+  set]. DANDI archive. https://doi.org/10.48324/dandi.000631/0.231012.1508
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -78,14 +78,15 @@ description: In the study, the impact of varying the electric field vector on th
   during the experiments provided a comprehensive visualization of this effect, highlighting
   the nuanced impact of electric field vector modifications on electroporation efficiency.
   Supported by NIH 1R21EY034258
+doi: 10.48324/dandi.000631/0.231012.1508
 ethicsApproval: []
-id: DANDI:000631/draft
+id: DANDI:000631/0.231012.1508
 identifier: DANDI:000631
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000631/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000631/0.231012.1508/assets.yaml
 name: Effect of the electric field vector change on the electroporation efficiency
   of paired-pulse trains compared to single-pulse trains
 protocol: []
@@ -111,8 +112,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000631/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000631/0.231012.1508
+version: 0.231012.1508
 wasGeneratedBy:
 - endDate: '2023-07-31T00:00:00-04:00'
   identifier: NIH 1R21EY034258
