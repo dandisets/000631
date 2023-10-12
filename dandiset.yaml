@@ -55,13 +55,6 @@ contributor:
   name: Andrei G. Pakhomov
   roleName: []
   schemaKey: Person
-- awardNumber: NIH 1R21EY034258
-  contactPoint: []
-  includeInCitation: false
-  name: 'National Institutes of Health '
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
 dateCreated: '2023-09-14T18:38:55.144430+00:00'
 description: In the study, the impact of varying the electric field vector on the
   effectiveness of electroporation was examined, utilizing both paired-pulse trains,
