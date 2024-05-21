@@ -5,7 +5,7 @@
 "blob":
 "e1bdf730-984a-439c-9ec7-e01a59bc9d9e",
 "created":
-"2023-10-11T19:26:44.117823+00:00",
+"2023-10-11T19:26:44.117823Z",
 "metadata":
 {
 "@context":
@@ -172,7 +172,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.032409+00:00",
+"2023-10-12T15:08:59.032409Z",
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-13/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-13_ses-BPAE-5xBipolar-0,83MHz_image.nwb",
 "size":
@@ -184,7 +184,7 @@
 "blob":
 "34965ca4-2a5c-4b90-ba25-26950f37a81c",
 "created":
-"2023-10-11T19:26:47.335791+00:00",
+"2023-10-11T19:26:47.335791Z",
 "metadata":
 {
 "@context":
@@ -351,7 +351,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.040583+00:00",
+"2023-10-12T15:08:59.040583Z",
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-15/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-15_ses-600ns-4kV-0-8MHz paired pulse trains_image.nwb",
 "size":
@@ -363,7 +363,7 @@
 "blob":
 "588419bb-dba1-4123-a939-e8a4f3583221",
 "created":
-"2023-10-11T19:26:36.631801+00:00",
+"2023-10-11T19:26:36.631801Z",
 "metadata":
 {
 "@context":
@@ -530,7 +530,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.016627+00:00",
+"2023-10-12T15:08:59.016627Z",
 "path":
 "sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-20/sub-600ns-4kV-0,8MHz-BP-8-24-21-BPAE-20_ses-600ns-4kV-0-8MHz paired pulse trains_image.nwb",
 "size":
@@ -542,7 +542,7 @@
 "blob":
 "d37ae1c2-53fc-4aa6-9dc7-04ce84c139a7",
 "created":
-"2023-10-11T19:27:35.152388+00:00",
+"2023-10-11T19:27:35.152388Z",
 "metadata":
 {
 "@context":
@@ -709,7 +709,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.057748+00:00",
+"2023-10-12T15:08:59.057748Z",
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-05/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-05_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
 "size":
@@ -721,7 +721,7 @@
 "blob":
 "1e77f4aa-96b5-4ffb-8daa-1c1885ba1ca6",
 "created":
-"2023-10-11T19:27:33.354773+00:00",
+"2023-10-11T19:27:33.354773Z",
 "metadata":
 {
 "@context":
@@ -888,7 +888,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.048552+00:00",
+"2023-10-12T15:08:59.048552Z",
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-06/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-06_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
 "size":
@@ -900,7 +900,7 @@
 "blob":
 "6cf655f3-e6d8-439c-8c52-06ff288e9e95",
 "created":
-"2023-10-11T19:28:55.264054+00:00",
+"2023-10-11T19:28:55.264054Z",
 "metadata":
 {
 "@context":
@@ -1067,7 +1067,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.084349+00:00",
+"2023-10-12T15:08:59.084349Z",
 "path":
 "sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-10/sub-600ns-4kV-0,8MHz-UP-10-5-21-BPAE-10_ses-600ns-4kV-0-8MHz single pulse trains_image.nwb",
 "size":
@@ -1079,7 +1079,7 @@
 "blob":
 "a2f0d01c-6549-4375-99db-98d03dab8e9c",
 "created":
-"2023-10-11T19:28:24.605387+00:00",
+"2023-10-11T19:28:24.605387Z",
 "metadata":
 {
 "@context":
@@ -1246,7 +1246,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.066463+00:00",
+"2023-10-12T15:08:59.066463Z",
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-13/sub-600ns-5kV-1HzBP-8-9-21-BPAE-13_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
 "size":
@@ -1258,7 +1258,7 @@
 "blob":
 "c7f7727c-a335-4166-adfd-0794c1896011",
 "created":
-"2023-10-11T19:28:28.984326+00:00",
+"2023-10-11T19:28:28.984326Z",
 "metadata":
 {
 "@context":
@@ -1425,7 +1425,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.075215+00:00",
+"2023-10-12T15:08:59.075215Z",
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-15/sub-600ns-5kV-1HzBP-8-9-21-BPAE-15_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
 "size":
@@ -1437,7 +1437,7 @@
 "blob":
 "3dde7bb2-9215-403d-a8ca-9104888072ae",
 "created":
-"2023-10-11T19:29:04.004853+00:00",
+"2023-10-11T19:29:04.004853Z",
 "metadata":
 {
 "@context":
@@ -1604,7 +1604,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.102125+00:00",
+"2023-10-12T15:08:59.102125Z",
 "path":
 "sub-600ns-5kV-1HzBP-8-9-21-BPAE-8/sub-600ns-5kV-1HzBP-8-9-21-BPAE-8_ses-600ns-5kV-1Hz paired pulse trains_image.nwb",
 "size":
@@ -1616,7 +1616,7 @@
 "blob":
 "7a018eac-d5ec-4773-bb99-5daec2be1fb8",
 "created":
-"2023-10-11T19:29:03.476069+00:00",
+"2023-10-11T19:29:03.476069Z",
 "metadata":
 {
 "@context":
@@ -1783,7 +1783,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.093043+00:00",
+"2023-10-12T15:08:59.093043Z",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-03/sub-600ns-5kV-1HzUP-7-31-21-BPAE-03_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -1795,7 +1795,7 @@
 "blob":
 "51d90a4b-6073-4026-a0bb-9fcb4304d7d1",
 "created":
-"2023-10-11T19:29:34.937430+00:00",
+"2023-10-11T19:29:34.937430Z",
 "metadata":
 {
 "@context":
@@ -1962,7 +1962,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.110962+00:00",
+"2023-10-12T15:08:59.110962Z",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-10/sub-600ns-5kV-1HzUP-7-31-21-BPAE-10_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -1974,7 +1974,7 @@
 "blob":
 "1f7feb74-db2e-4936-b7cb-1ea66ea8c068",
 "created":
-"2023-10-11T19:29:52.362101+00:00",
+"2023-10-11T19:29:52.362101Z",
 "metadata":
 {
 "@context":
@@ -2141,7 +2141,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.120308+00:00",
+"2023-10-12T15:08:59.120308Z",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-18/sub-600ns-5kV-1HzUP-7-31-21-BPAE-18_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -2153,7 +2153,7 @@
 "blob":
 "8b5b6db5-e6ce-4bb7-9f87-a3e8e8cd56bd",
 "created":
-"2023-10-11T19:30:12.613609+00:00",
+"2023-10-11T19:30:12.613609Z",
 "metadata":
 {
 "@context":
@@ -2320,7 +2320,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.129068+00:00",
+"2023-10-12T15:08:59.129068Z",
 "path":
 "sub-600ns-5kV-1HzUP-7-31-21-BPAE-5/sub-600ns-5kV-1HzUP-7-31-21-BPAE-5_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -2332,7 +2332,7 @@
 "blob":
 "95dd5050-1528-4d16-a7f7-dc5cfefd5db3",
 "created":
-"2023-10-11T19:30:18.002640+00:00",
+"2023-10-11T19:30:18.002640Z",
 "metadata":
 {
 "@context":
@@ -2499,7 +2499,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.148467+00:00",
+"2023-10-12T15:08:59.148467Z",
 "path":
 "sub-600ns-5kV-1HzUP-8-9-21-BPAE-10/sub-600ns-5kV-1HzUP-8-9-21-BPAE-10_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
@@ -2511,7 +2511,7 @@
 "blob":
 "a8708192-987f-426f-8337-ac37c4a71273",
 "created":
-"2023-10-11T19:30:16.913149+00:00",
+"2023-10-11T19:30:16.913149Z",
 "metadata":
 {
 "@context":
@@ -2678,7 +2678,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:08:59.137755+00:00",
+"2023-10-12T15:08:59.137755Z",
 "path":
 "sub-600ns-5kV-1HzUP-8-9-21-BPAE-14/sub-600ns-5kV-1HzUP-8-9-21-BPAE-14_ses-600ns-5kV-1Hz single pulse trains_image.nwb",
 "size":
